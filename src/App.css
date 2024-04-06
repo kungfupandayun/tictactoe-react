@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.Profile-Name{
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+.square{
+  border-style: solid;
+  display: flexbox;
+  font-size: large;
+  width: 5cm;
+  height: 5cm;
+}
+
+.board-row{
+  display: flex;
+}
